@@ -10,7 +10,7 @@ We r going to have three main folders :
     |  └── example_1_helloWorld (allways contains a readme.md)
     |   
     ├──_ documentationAndLinks (recordatory: [I'm an inline-style link] (https://www.pornhub.com), or : [I'm a relative reference to a repository file] (../blob/master/LICENSE))
-    |  ├── interestingDocuments.md (links to a drive where we are going to save the files, documents and relevant info, links to videos explaining VHDL things go here too)
-    |  └── interestingExamples.md (links to interesting examples whatever format they are, including videos) 
+    |  ├── interestingDocumentsLinks.md (links to a drive where we are going to save the files, documents and relevant info, links to videos explaining VHDL things go here too)
+    |  └── interestingExamplesLinks.md (links to interesting examples whatever format they are, including videos) 
     |
     └──_ programInstallationInfo (all info related to install VHDL suits for work, links to webpages and documents)
