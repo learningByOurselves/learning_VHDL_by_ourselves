@@ -1,7 +1,8 @@
 Xilinx ISE -> Linux Instalation guide:
 
-  Youtube link: https://www.youtube.com/watch?v=meO-b6Ib17Y;
-  Arch-wiki:    https://wiki.archlinux.org/index.php/Xilinx_ISE_WebPACK;
+  Youtube link: https://www.youtube.com/watch?v=meO-b6Ib17Y
+  
+  Arch-wiki:    https://wiki.archlinux.org/index.php/Xilinx_ISE_WebPACK
   
   About installation:
     
