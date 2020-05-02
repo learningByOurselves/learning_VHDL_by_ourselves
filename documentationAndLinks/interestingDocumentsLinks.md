@@ -1,12 +1,12 @@
-Xilinx ISE -> Linux Instalation guide:
+**Xilinx ISE -> Linux Instalation guide:**
 
-* **Youtube link:** https://www.youtube.com/watch?v=meO-b6Ib17Y
-* **Arch-wiki:**    https://wiki.archlinux.org/index.php/Xilinx_ISE_WebPACK
+* Youtube link: https://www.youtube.com/watch?v=meO-b6Ib17Y
+* Arch-wiki: https://wiki.archlinux.org/index.php/Xilinx_ISE_WebPACK
   
   **About installation:**
     
-    Every IDE and workspace has te be quite different, if you'll work in UNIX-bassed systems
-    make sure if usb drivers and udev rules are right.
+   > Every IDE and workspace has te be quite different, if you'll work in UNIX-bassed systems
+   > make sure if usb drivers and udev rules are right.
 
 
 **Spartan-3E Tutorial:**
