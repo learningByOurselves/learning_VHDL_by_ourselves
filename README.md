@@ -1,11 +1,10 @@
 ## learning_VHDL_by_ourselves
 this is a repo uploaded with just one objective, coordinate and organize the information, examples and programs created and modified while we learn VHDL
 
-
 ## How we are going to organize the repo
 
-We r going to have three main folders :
-```bash
+We are going to have three main folders :
+```areash
 repo_
     ├──_ ourPrograms (subfolder name example)
     |  ├── program_controllingLEDStrip (allways contains a readme.md)
