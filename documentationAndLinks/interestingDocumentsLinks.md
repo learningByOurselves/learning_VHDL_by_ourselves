@@ -5,7 +5,7 @@
   
   **About installation:**
     
-   > Every IDE and workspace has te be quite different, if you'll work in UNIX-bassed systems
+   > Every IDE and workspace has to be quite different, if you'll work in UNIX-bassed systems
    > make sure if usb drivers and udev rules are right.
 
 
